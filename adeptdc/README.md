@@ -9,3 +9,5 @@
 * Dynamic cooling optimization: https://www.youtube.com/watch?v=1tsVo6fJZh4
 
 * Customer testimonial(Arrow): https://www.youtube.com/watch?v=cb4DjGG2qcE&t=17s
+
+* Product design: https://marvelapp.com/prototype/3b7h2jg/screen/45565479
