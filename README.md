@@ -4,8 +4,10 @@
 
 * Papers and Patents
 
-* SBIR
+* SBIR (National Science Foundation Small Business Innovation Research)
 
 * AdeptDC
 
 * Representative data projects
+
+* Resume
